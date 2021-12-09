@@ -1,0 +1,12 @@
+{
+"order":{
+    "name":"Rohan",
+    "qty": 1,
+    "price":250.00
+},
+"payment":{}
+}
+
+This is to use two object returninng api : ordercontrolleer is posting TransactionRequest
+as a body . And TransactionRequest is having two object as its field : paymentDTO and ORder .
+so we we have to pass two object in postmand
