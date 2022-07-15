@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="com.netflix.ribbon.proxy.annotation.Hystrix"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="org.redisson.config.Config"/>
+<fullyQualifiedTypeName name="org.redisson.api.RedissonClient"/>
+<fullyQualifiedTypeName name="org.redisson.Redisson"/>
+<fullyQualifiedTypeName name="org.mockito.Mock"/>
+<fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+<fullyQualifiedTypeName name="com.javatechie.os.api.common.TransactionRequest"/>
+<fullyQualifiedTypeName name="com.javatechie.os.api.common.PaymentDTO"/>
+</qualifiedTypeNameHistroy>
